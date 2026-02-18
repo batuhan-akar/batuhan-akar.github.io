@@ -667,3 +667,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+exclude:
+  - assets/jupyter
