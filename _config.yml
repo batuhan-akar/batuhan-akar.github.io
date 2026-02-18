@@ -668,5 +668,4 @@ jsonresume:
   - interests
   - references
 
-exclude:
-  - assets/jupyter
+
