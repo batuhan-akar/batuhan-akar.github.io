@@ -451,6 +451,13 @@ ninja.data = [{
           window.open("mailto:%62%61%61%6B%61%72@%65%74%68%7A.%63%68", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/batuhan-akar", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
