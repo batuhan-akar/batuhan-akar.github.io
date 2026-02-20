@@ -23,4 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! This website is currently under construction.
+Hello there!
+
+I'm currently doing interpretability research at [SPY Lab](https://spylab.ai) as part of my thesis. I was previously a research assistant at [SRI Lab](https://www.sri.inf.ethz.ch) working on LLM anonymisers. My general interests include AI safety, foundation models and the usage of AI for scientific purposes.
+
+A good way for me to relax is to go on long walks. Outside of my studies, I also enjoy reading about history and philosophy.
+
+I enjoy meeting new people, so if any of my interests catches your attention, don't hesitate to reach out!
+
+Feel free to leave anonymous feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSdHl3gVYcGYGoBoo_H2Cj-RZdX6GvD3Gliv_alNtq8Wst1NlA/viewform?usp=header).
