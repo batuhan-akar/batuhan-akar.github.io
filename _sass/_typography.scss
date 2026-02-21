@@ -73,7 +73,11 @@ blockquote {
   font-size: 1rem;
 
   p {
-    margin-bottom: 0;
+    margin-bottom: 1rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
   /* Tips, warnings, and dangers blockquotes */
