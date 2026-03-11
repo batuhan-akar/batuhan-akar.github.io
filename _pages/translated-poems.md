@@ -14,7 +14,7 @@ Living is no laughing matter,<br>
 You'll live with great seriousness,<br>
 Like a squirrel for instance,<br>
 That is, without expecting anything outside and beyond life,<br>
-That is, your whole single purpose will be to live.<br>
+That is, your sole purpose will be to live.<br>
 <br>
 You'll take living seriously,<br>
 To such a degree, so much so that,<br>
