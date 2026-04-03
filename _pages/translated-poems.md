@@ -29,14 +29,14 @@ Even though you know that the most real thing is to live.<br>
 So, you'll take living so seriously that,<br>
 Even in your seventies, for instance, you'll plant olives,<br>
 Not to leave it to the children or anything like that,<br>
-But because even though you're afraid of dying, you don't believe in death,<br>
+But because although you’re afraid of dying, you don’t believe in death,<br>
 Because living outweighs.<br>
 <br>
 (II)<br>
 Let's say, we're a patient in critical condition,<br>
 So, from the white table<br>
 There's a chance of never waking up again too,<br>
-Even if it's impossible to not feel the sorrow of leaving a little early,<br>
+Although it’s impossible not to feel the sorrow of leaving a little early,<br>
 We'll nevertheless laugh at the jokes of Bektasi,<br>
 We'll look out of the window, to see if it's raining,<br>
 Or we'll still wait impatiently<br>
@@ -68,7 +68,7 @@ A star particle on a blue velvet<br>
 That is, this enormous world of ours.<br>
 <br>
 This world will grow cold one day,<br>
-Not even like a pack of ice,<br>
+Not like a pack of ice,<br>
 Or a dead cloud either,<br>
 It'll roll like an empty walnut,<br>
 In the pitch black darkness, vast and endless.<br>

@@ -10,3 +10,4 @@ nav_order: 1
 - [Wiki Rabbit Hole](/lists/wiki-rabbit-hole/)
 - [Translated Poems](/lists/translated-poems/)
 - [Books](/books/)
+- [Quotes](/quotes/)
