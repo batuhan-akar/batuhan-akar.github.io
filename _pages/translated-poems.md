@@ -5,7 +5,7 @@ permalink: /lists/translated-poems/
 nav: false
 ---
 
-### On Living by Nâzım Hikmet
+### "On Living" by Nâzım Hikmet
 
 ([here](https://www.youtube.com/watch?v=vzU-KsyJkFA) is a music composition of this poem by Fazıl Say)
 
@@ -77,3 +77,36 @@ Even now, the pain of it must sting,<br>
 The sorrow has to be felt already.<br>
 This world must be loved like that<br>
 For you to say "I have lived"...<br>
+<br>
+### "I Want to Become a Machine!" by Nâzım Hikmet
+
+([here](https://youtu.be/eERZDD_znTo?si=JE_51aaQllUFO4-W) is a music composition of this poem by Fikret Kızılok)
+<br>
+<br>
+Trrrrum,<br>
+trrrrum,<br>
+trrrrum!<br>
+trak tiki tak!<br>
+I want to become a machine!<br>
+<br>
+This comes from my brain, my flesh, my skeleton!<br>
+I am going crazy to mount every single dynamo!<br>
+My saliva-wet tongue licks copper wires,<br>
+in my veins motor-trolleys chase locomotives!<br>
+<br>
+Trrrrum,<br>
+trrrrum,<br>
+trrrrum!<br>
+trak tiki tak!<br>
+I want to become a machine!<br>
+<br>
+I will surely find a way,<br>
+and I will only be blessed,<br>
+the day I plant a turbine in my belly<br>
+and attach a twin propeller to my tail!<br>
+<br>
+Trrrrum,<br>
+trrrrum,<br>
+trrrrum!<br>
+trak tiki tak!<br>
+I want to become a machine!<br>
