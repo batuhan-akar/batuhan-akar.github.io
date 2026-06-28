@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lists/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-on-culture",
+        
+          title: "On Culture",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/on-culture/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
