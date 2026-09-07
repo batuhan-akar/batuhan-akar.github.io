@@ -27,6 +27,8 @@ Hello there!
 
 I'm currently doing interpretability research at [SPY Lab](https://spylab.ai) as part of my thesis. I was previously a research assistant at [SRI Lab](https://www.sri.inf.ethz.ch) working on LLM anonymisers. My general interests include AI safety, foundation models and the usage of AI for scientific purposes. The ultimate goal would be to help society as best as I can.
 
+More broadly, I believe it is crucial to work on the question of freedom. Namely, on ways to maximise freedom without infringing upon the freedom of others, both individually and socially. I hope to contribute to this problem.
+
 A good way for me to relax is to go on long walks or make soup. Outside of my studies, I also enjoy reading about history and philosophy.
 
 I enjoy meeting new people, so if any of my interests catches your attention, don't hesitate to reach out!
