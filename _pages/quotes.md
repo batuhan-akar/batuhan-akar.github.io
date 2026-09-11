@@ -6,6 +6,10 @@ nav: false
 published: true
 ---
 
-- Nagasawa in [Norwegian Wood](https://en.wikipedia.org/wiki/Norwegian_Wood_(novel))
+- Nagasawa in [Norwegian Wood](<https://en.wikipedia.org/wiki/Norwegian_Wood_(novel)>)
 
 > "Don't feel sorry for yourself. Only assholes do that."
+
+- Francis Bacon
+
+> "Truth emerges more readily from error than from confusion."
