@@ -25,9 +25,9 @@ latest_posts:
 
 Hello there!
 
-I'm currently doing interpretability research at [SPY Lab](https://spylab.ai) as part of my thesis. I was previously a research assistant at [SRI Lab](https://www.sri.inf.ethz.ch) working on LLM anonymisers. My general interests include AI safety, foundation models and the usage of AI for scientific purposes. The ultimate goal would be to help society as best as I can.
+I want to make AI go well. I recently did interpretability research at [SPY Lab](https://spylab.ai/) as part of my thesis, and I was previously a research assistant at [SRI Lab](https://www.sri.inf.ethz.ch/) working on LLM anonymisers. My general interests include AI safety, foundation models and AI swarms. The ultimate goal would be to help society as best as I can.
 
-More broadly, I believe it is crucial to work on the question of freedom. Namely, on ways to maximise freedom without infringing upon the freedom of others, both individually and socially. I hope to contribute to this problem.
+More broadly, I believe it is crucial to work on the question of freedom. Namely, on ways to maximise freedom without infringing upon the freedom of others, both individually and socially. I hope to contribute to this as well.
 
 A good way for me to relax is to go on long walks or make soup. Outside of my studies, I also enjoy reading about history and philosophy.
 
