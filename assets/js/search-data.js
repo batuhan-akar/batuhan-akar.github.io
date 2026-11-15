@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lists/";
           },
-        },{id: "post-on-culture",
+        },{id: "post-superintelligence-will-be-a-multi-agent-system",
+        
+          title: "Superintelligence Will Be a Multi-Agent System",
+        
+        description: "Why coordination between AI agents matters for superintelligence and alignment.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/superintelligence-will-be-a-multi-agent-system/";
+          
+        },
+      },{id: "post-on-culture",
         
           title: "On Culture",
         
