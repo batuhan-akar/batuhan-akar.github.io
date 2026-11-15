@@ -78,6 +78,7 @@ The sorrow has to be felt already.<br>
 This world must be loved like that<br>
 For you to say "I have lived"...<br>
 <br>
+
 ### "I Want to Become a Machine!" by Nâzım Hikmet
 
 ([here](https://youtu.be/eERZDD_znTo?si=JE_51aaQllUFO4-W) is a music composition of this poem by Fikret Kızılok)
